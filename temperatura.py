@@ -46,5 +46,5 @@ def promedio (c,s): #Creamos nuestra funcion, la cual le damos 2 argumentos que 
 ciudad = int(input("Ingrese la ciudad (1 a 3): "))   #Creamos la variable ciudad para que el usuario ingrese que ciudad desea
 semana = int(input("Ingrese la semana (1 a 4 ): "))   #Creamos la variable semana para que el usuario ingrese la semana que desea el promedio
 
-#Llamamos a nuestra funcion y colocamos los argumentos en este caso las varaibles ciudad y semana
+#Llamamos a nuestra funcion
 print(promedio(ciudad,semana))
