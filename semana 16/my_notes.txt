@@ -1,0 +1,3 @@
+Hola mundo
+Estoy escribiendo archivos en python
+Aprenderemos a escribir y visualizar
